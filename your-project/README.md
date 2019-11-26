@@ -37,6 +37,6 @@ It has a README document with information about what you will find in the main d
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/estefaniaespinar/Project-Week-1-Build-Your-Own-Game.git)  
 [Slides](https://docs.google.com/presentation/d/1H5d3PxJDN_Kcr9a4u9V3TwiQf13rdRTwONdjsGeGqcA/edit?usp=sharing)  
 [Trello](https://trello.com/b/73gFrf6w)  
